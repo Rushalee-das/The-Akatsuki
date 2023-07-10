@@ -1,0 +1,70 @@
+html,
+body {
+  height: 100%;
+  margin-top: 20px;
+
+  background-color: #000;
+  overflow: hidden;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+  margin-left: 500px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.top {
+    margin-top: 10px;
+    height: 50px;
+    width: 300px;
+  margin-bottom: -1px;
+  border-radius: 5px;
+  border-style: none;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.middle
+{
+    margin-top: 3px;
+    height: 50px;
+    width: 300px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-style: none;
+}
+.bottom {
+    margin-top: 2px;
+    height: 50px;
+    width: 300px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-style: none;
+}
+.image{
+    height: 120px;
+    width: 200px;
+    margin-left: 50px;
+}
+.normal{
+    color: #fff;
+}
+.company{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.button{
+    height: 50px;
+    width: 300px;
+    background-color: #2759DD;
+    border-radius: 7px;
+    color: #fff;
+    outline: none;
+    border-style: none;
+    outline-style: none;
+}
